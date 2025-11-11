@@ -12,14 +12,6 @@ It leverages Python libraries including **NumPy**, **Pandas**, and **SciPy**, an
 - Matplotlib / Seaborn (for visualization)  
 - Jupyter Notebook (`notebook.ipynb`)  
 
-## 🗂 File Structure  
-Book-Sales-Data-Analysis/
-│
-├── Books_Data_Clean.csv # Cleaned dataset used for analysis
-├── notebook.ipynb # Jupyter Notebook with the full analysis
-├── README.md # This file
-└── requirements.txt # (optional) list of dependencies
-
 ## 🔍 Exploratory Data Analysis (EDA) & Key Questions  
 - How many units were sold / what was the gross sales over time?  
 - Which genres are most popular by units sold and revenue?  
@@ -58,3 +50,4 @@ Deploy the application online for live interaction.
 🙏 Acknowledgements
 
 Thank you to the dataset contributors and open‐source libraries used (NumPy, Pandas, SciPy, Matplotlib, Seaborn).
+
